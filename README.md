@@ -34,6 +34,11 @@ Apps that help you manage the WebExtensions
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it
 - [chrome-i18n](https://github.com/Ragnarokkr/chrome-i18n) - Helps build a locales database from some project files
 
+## Porting Chrome Store Extensions to Other Browsers
+
+- For Opera: [Download Chrome Extension](https://addons.opera.com/en/extensions/details/download-chrome-extension-9/)
+- For Firefox: [Chrome Store Foxified](https://addons.mozilla.org/en-US/firefox/addon/chrome-store-foxified/)
+
 ## Sample Extensions
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI
